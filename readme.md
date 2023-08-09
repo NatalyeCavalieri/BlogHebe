@@ -19,7 +19,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="Projeto blog" src="./images/balaio.jpg" width="100%">
+  <img alt="Projeto blog" src="./images/paleta cores.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
